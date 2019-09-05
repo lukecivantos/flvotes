@@ -2,43 +2,43 @@
   "0_title":{
     "wiki_step":"0",
     "ref":"0_title",
-    "en":"Welcome to KSVotes.org!",
-    "es":"¡Bienvenido a KSVotes.org!"
+    "en":"Welcome to FLVotes.org!",
+    "es":"¡Bienvenido a FLVotes.org!"
   },
   "0_lead":{
     "wiki_step":"0",
     "ref":"0_lead",
-    "en":"Your Kansas Online Voter Registration and Advance Ballot Service",
+    "en":"Your Florida Online Voter Registration and Advance Ballot Service",
     "es":"Su registro de votante en línea y servicio de información"
   },
   "0_intro_deadline":{
     "wiki_step":"0",
     "ref":"0_intro",
-    "en":"We can help you check your registration and find information on voting. To start the process, we need some information so that we can see if you are currently registered to vote in Kansas.",
-    "es":"Podemos ayudarlo a verificar su registro y encontrar información sobre la votación. Para iniciar el proceso, necesitamos información para poder ver si está registrado para votar en Kansas."
+    "en":"We can help you check your registration and find information on voting. To start the process, we need some information so that we can see if you are currently registered to vote in Florida.",
+    "es":"Podemos ayudarlo a verificar su registro y encontrar información sobre la votación. Para iniciar el proceso, necesitamos información para poder ver si está registrado para votar en Florida."
   },
   "0_intro_regonly":{
     "wiki_step":"0",
     "ref":"0_intro",
-    "en":"We can help you register to vote or check your registration. To start the process, we need some information so that we can see if you are currently registered to vote in Kansas.",
-    "es":"Podemos ayudarlo a registrarse para votar o verificar su registro. Para comenzar el proceso, necesitamos cierta información para que podamos ver si usted está actualmente registrado para votar en Kansas."
+    "en":"We can help you register to vote or check your registration. To start the process, we need some information so that we can see if you are currently registered to vote in Florida.",
+    "es":"Podemos ayudarlo a registrarse para votar o verificar su registro. Para comenzar el proceso, necesitamos cierta información para que podamos ver si usted está actualmente registrado para votar en Florida."
   },
   "0_intro":{
     "wiki_step":"0",
     "ref":"0_intro",
-    "en":"We can help you register to vote, check your registration, or apply to vote by mail. To start the process, we need some information so that we can see if you are currently registered to vote in Kansas.",
-    "es":"Podemos ayudarlo a registrarse para votar, verificar su registro o solicite para votar por correo. Para comenzar el proceso, necesitamos cierta información para que podamos ver si usted está actualmente registrado para votar en Kansas."
+    "en":"We can help you register to vote, check your registration, or apply to vote by mail. To start the process, we need some information so that we can see if you are currently registered to vote in Florida.",
+    "es":"Podemos ayudarlo a registrarse para votar, verificar su registro o solicite para votar por correo. Para comenzar el proceso, necesitamos cierta información para que podamos ver si usted está actualmente registrado para votar en Florida."
   },
   "0_form_explain_deadline":{
     "en":"Enter your information to look up your polling place, see early voting options, and view a sample ballot.",
     "es":"Ingrese su información para buscar su lugar de votación, vea las opciones de votación anticipada y vea una boleta de muestra."
   },
    "0_form_explain":{
-    "en":"To request an advance ballot or to register to vote in Kansas, we need to verify your current voter registration status.",
+    "en":"To request an advance ballot or to register to vote in Florida, we need to verify your current voter registration status.",
     "es":"Para solicitar una boleta por adelantado o para registrarse para votar, necesitamos verificar su estado actual de registro de votante."
   },
   "0_form_explain_regonly":{
-    "en":"To register to vote in Kansas, we need to verify your current voter registration status.",
+    "en":"To register to vote in Florida, we need to verify your current voter registration status.",
     "es":"Para registrarse para votar, necesitamos verificar su estado actual de registro de votante."
   },
 
@@ -63,16 +63,16 @@
   "0_footer_partners":{
     "wiki_step":"0",
     "ref":"0_footer_partners",
-    "en":"KSVotes.org was built in partnership with Loud Light and GPS Impact",
-    "es":"KSVotes.org fue construido en asociación con Loud Light y GPS Impact, traducido por El Centro Inc."
+    "en":"FLVotes.org was built in partnership with Loud Light and GPS Impact",
+    "es":"FLVotes.org fue construido en asociación con Loud Light y GPS Impact, traducido por El Centro Inc."
   },
   "0_footer_about_us":{
     "en": "About this site",
     "es": "Sobre este sitio"
   },
     "0_footer_SOS":{
-    "en": "KSVotes.org is a 501(c)3 non-partisan non-profit organization and not a service of the Kansas Secretary of State",
-    "es": "KSVotes.org es una organización sin fines de lucro no partidista 501(c)3 y no es un servicio del Secretario de Estado de Kansas"
+    "en": "FLVotes.org is a 501(c)3 non-partisan non-profit organization and not a service of the Florida Secretary of State",
+    "es": "FLVotes.org es una organización sin fines de lucro no partidista 501(c)3 y no es un servicio del Secretario de Estado de Florida"
   },
   "0_name_help":{
     "wiki_step":"0",
@@ -156,20 +156,20 @@
   "0x_intro":{
     "wiki_step":"0x",
     "ref":"0x_intro",
-    "en":"Welcome to the KSVotes.org Online Voter Registration Application\nThis program will walk you through the process of filling out the federal voter registration form, create a completed image of the federal form, and ask you to sign using a stylus, finger, or mouse. Once completed, we will email the form to your county clerk to submit your registration form.\n\nThe information below was received from the page that directed you here. Please check it and edit anything that's incorrect, and we'll check to see if you're already registered to vote in Kansas.",
-    "es":"Bienvenido a la aplicación de registro de votantes en línea de KSVotes.org\nEste programa lo guiará en el proceso de completar el formulario federal de inscripción de votantes, crear una imagen completa del formulario federal y solicitarle que firme con un lápiz, un dedo o un mouse. Una vez completado, enviaremos el formulario por correo electrónico a su secretario del condado para enviar su formulario de registro.\n\nLa información a continuación fue recibida de la página que lo dirigió aquí. Por favor, verifíquelo y edite todo lo que sea incorrecto, y verificaremos si ya está registrado para votar en Kansas."
+    "en":"Welcome to the FLVotes.org Online Voter Registration Application\nThis program will walk you through the process of filling out the federal voter registration form, create a completed image of the federal form, and ask you to sign using a stylus, finger, or mouse. Once completed, we will email the form to your county clerk to submit your registration form.\n\nThe information below was received from the page that directed you here. Please check it and edit anything that's incorrect, and we'll check to see if you're already registered to vote in Florida.",
+    "es":"Bienvenido a la aplicación de registro de votantes en línea de FLVotes.org\nEste programa lo guiará en el proceso de completar el formulario federal de inscripción de votantes, crear una imagen completa del formulario federal y solicitarle que firme con un lápiz, un dedo o un mouse. Una vez completado, enviaremos el formulario por correo electrónico a su secretario del condado para enviar su formulario de registro.\n\nLa información a continuación fue recibida de la página que lo dirigió aquí. Por favor, verifíquelo y edite todo lo que sea incorrecto, y verificaremos si ya está registrado para votar en Florida."
   },
   "0_match":{
     "wiki_step":"0",
     "ref":"0_match",
-    "en":"You are registered to vote in Kansas, with the information below. If you wish to re-register to change your name, address, or political party, please continue by clicking Next.\n\nOr, if the information below is fully up-to-date, click here to <apply to vote by mail>.",
-    "es":"Usted está registrado para votar en Kansas, con la siguiente información. Si desea volver a registrarse para cambiar su nombre, dirección o partido político, continúe haciendo clic en Siguiente.\n\nO bien, si la información a continuación está completamente actualizada, haga clic aquí para <solicitar votar por correo>.\n\nTambién puede hacer clic aquí para visitar el sitio del Secretario de Estado de Kansas para consultar su casilla de votación y ver su boleta de muestra. Nota: Este enlace lo aleja de KSVotes.org y del sitio web de la Secretaría de Estado"
+    "en":"You are registered to vote in Florida, with the information below. If you wish to re-register to change your name, address, or political party, please continue by clicking Next.\n\nOr, if the information below is fully up-to-date, click here to <apply to vote by mail>.",
+    "es":"Usted está registrado para votar en Florida, con la siguiente información. Si desea volver a registrarse para cambiar su nombre, dirección o partido político, continúe haciendo clic en Siguiente.\n\nO bien, si la información a continuación está completamente actualizada, haga clic aquí para <solicitar votar por correo>.\n\nTambién puede hacer clic aquí para visitar el sitio del Secretario de Estado de Florida para consultar su casilla de votación y ver su boleta de muestra. Nota: Este enlace lo aleja de FLVotes.org y del sitio web de la Secretaría de Estado"
   },
   "0_nomatch":{
     "wiki_step":"0",
     "ref":"0_nomatch",
-    "en":"We couldn't find your information in the Kansas voter registration records. Please continue to the registration form by clicking Next. Note: If you recently submitted a registration application, your information may still be in process. You can still <apply to vote by mail>.",
-    "es":"No pudimos encontrar su información en los registros de registro de votantes de Kansas. Continúe con el formulario de registro haciendo clic en Siguiente.\n\nNota: Si envió recientemente una solicitud de registro, su información aún puede estar en proceso. Todavía puede <solicitar votar por correo>."
+    "en":"We couldn't find your information in the Florida voter registration records. Please continue to the registration form by clicking Next. Note: If you recently submitted a registration application, your information may still be in process. You can still <apply to vote by mail>.",
+    "es":"No pudimos encontrar su información en los registros de registro de votantes de Florida. Continúe con el formulario de registro haciendo clic en Siguiente.\n\nNota: Si envió recientemente una solicitud de registro, su información aún puede estar en proceso. Todavía puede <solicitar votar por correo>."
   },
   "1VR_header":{
     "wiki_step":"1VR",
@@ -204,8 +204,8 @@
   "1AB_reg_found_title":{
     "wiki_step":"1AB",
     "ref":"1AB_reg_found_title",
-    "en":"Success! We found your Kansas voter registration.",
-    "es":"¡Lo Logramos! Encontramos su registro de votante en Kansas."
+    "en":"Success! We found your Florida voter registration.",
+    "es":"¡Lo Logramos! Encontramos su registro de votante en Florida."
   },
   "1AB_whats_next":{
     "wiki_step":"1AB",
@@ -308,8 +308,8 @@
     "es":"Los votantes no afiliados deben registrarse para votar como miembros de un partido a fin de votar en las primarias de ese partido. Para enviar esta solicitud, también deberemos presentar un nuevo registro que lo haga miembro de ese partido político."
   },
   "1_sos_failure": {
-    "en":"The Kansas Secretary of State site is not available",
-    "es":"El sitio de la Secretaría de Estado de Kansas no está disponible"
+    "en":"The Florida Secretary of State site is not available",
+    "es":"El sitio de la Secretaría de Estado de Florida no está disponible"
   },
   "1_sos_failure_explain": {
     "en":"We were unable to check for your voter registration because the <a href='{link}'>Secretary of State website</a> is not responding.",
@@ -369,20 +369,20 @@
   "3_addr_help":{
     "wiki_step":"3",
     "ref":"3_addr_help",
-    "en":"Your address of residence determines the precinct in which you vote. \"Residence\" is defined in Kansas law as \"the place adopted by a person as such person's place of habitation, and to which, whenever such person is absent, such person has the intention of returning.\"",
-    "es":"Su dirección de residencia determina el precinto en el que usted vota. \"Residencia\" se define en la ley de Kansas como \"el lugar adoptado por una persona como lugar de habitación de esa persona, y al cual, cuando esa persona está ausente, dicha persona tiene la intención de regresar\"."
+    "en":"Your address of residence determines the precinct in which you vote. \"Residence\" is defined in Florida law as \"the place adopted by a person as such person's place of habitation, and to which, whenever such person is absent, such person has the intention of returning.\"",
+    "es":"Su dirección de residencia determina el precinto en el que usted vota. \"Residencia\" se define en la ley de Florida como \"el lugar adoptado por una persona como lugar de habitación de esa persona, y al cual, cuando esa persona está ausente, dicha persona tiene la intención de regresar\"."
   },
   "3_unit":{"wiki_step":"3","ref":"3_unit","en":"Apt/Lot","es":"Apt / lote"},
   "3_city":{"wiki_step":"3","ref":"3_city","en":"City/Town","es":"Ciudad/Pueblo"},
   "3_state":{
-    "en":"KSVotes.org is limited to Kansas residents",
-    "es":"KSVotes.org está limitado a los residentes de Kansas"
+    "en":"FLVotes.org is limited to Florida residents",
+    "es":"FLVotes.org está limitado a los residentes de Florida"
   },
   "3_state_help":{
     "wiki_step":"3",
     "ref":"3_state_help",
-    "en":"KSVotes.org only works for registrants who live and wish to vote in Kansas. If you live in a different state, you can register using https://turbovote.org/",
-    "es":"KSVotes.org solo funciona para los solicitantes de registro que viven y desean votar en Kansas. Si vive en un estado diferente, puede registrarse usando https://turbovote.org/"
+    "en":"FLVotes.org only works for registrants who live and wish to vote in Florida. If you live in a different state, you can register using https://turbovote.org/",
+    "es":"FLVotes.org solo funciona para los solicitantes de registro que viven y desean votar en Florida. Si vive en un estado diferente, puede registrarse usando https://turbovote.org/"
   },
   "3_zip":{"wiki_step":"3","ref":"3_zip","en":"ZIP Code","es":"Codigo Postal"},
   "3_zip_help":{
@@ -468,24 +468,24 @@
   "5AB_id":{
     "wiki_step":"5AB",
     "ref":"5AB_id",
-    "en":"Current Kansas driver's license number or nondriver's identification card number",
-    "es":"Número actual de licencia de conducir de Kansas o número de tarjeta de identificación de no conductor:"
+    "en":"Current Florida driver's license number or nondriver's identification card number",
+    "es":"Número actual de licencia de conducir de Florida o número de tarjeta de identificación de no conductor:"
   },
   "5AB_id_pattern":{
-    "en":"Your Kansas ID number does not match an expected pattern.",
-    "es":"Su número de identificación de Kansas no coincide con un patrón esperado."
+    "en":"Your Florida ID number does not match an expected pattern.",
+    "es":"Su número de identificación de Florida no coincide con un patrón esperado."
   },
   "5AB_id_shorthelp":{
     "wiki_step":"5AB",
     "ref":"5AB_id_shorthelp",
-    "en":"If you do not have a Kansas driver's license or nondriver's ID card, you can leave this blank and click Next for more instructions.",
-    "es":"Si no tiene una licencia de conducir de Kansas o una tarjeta de identificación de no conductor, puede dejar esto en blanco y hacer clic en Siguiente para obtener más instrucciones."
+    "en":"If you do not have a Florida driver's license or nondriver's ID card, you can leave this blank and click Next for more instructions.",
+    "es":"Si no tiene una licencia de conducir de Florida o una tarjeta de identificación de no conductor, puede dejar esto en blanco y hacer clic en Siguiente para obtener más instrucciones."
   },
   "5AB_id_help":{
     "wiki_step":"5AB",
     "ref":"5AB_id_help",
-    "en":"If you do not have a current and valid Kansas driver's license number or Kansas nondriver's identification card number, you must provide a copy of one of the following forms of photo identification to your local elections official in order to receive a ballot:\n<ul>\n<li>Driver's license issued by Kansas or another state</li>\n<li>Nondriver's ID card issued by Kansas or another state</li>\n<li>U.S. passport</li> \n<li>Concealed carry of handgun license issued by Kansas  or another state</li>\n<li>Employee badge or ID document issued by a government office</li>\n<li>U.S. military ID</li>\n<li>Student ID card issued by an accredited Kansas postsecondary educational institution</li>\n<li>Public assistance ID card issued by a government office</li>\n<li>ID card issued by an Indian tribe</li>\n</ul>If you do not have any of these forms of ID, you can call 316-530-5321 for assistance in getting a free voter ID.</li>\n</ul>",
-    "es":"Si no tiene un número de licencia de conducir de Kansas vigente o válido o un número de identificación de Kansas que no sea de conductor, debe proporcionar una copia de uno de los siguientes formularios de identificación con foto al oficial de elecciones locales para recibir una boleta:\n<ul>\n<li>Licencia de conducir emitida por Kansas u otro estado</li>\n<li>Tarjeta de identificación de no conductor emitida por Kansas u otro estado</li>\n<li>Pasaporte de EE. UU.</li>\n<li>Licencia de portar armas de fuego ocultas emitida por Kansas u otro estado</li>\n<li>Tarjeta de identificación de empleado o documento de identidad emitido por una oficina gubernamental</li>\n<li>Identificación militar de EE. UU.</li>\n<li>Tarjeta de identificación de estudiante emitida por una institución educativa postsecundaria acreditada de Kansas</li>\n<li>Tarjeta de identificación de asistencia pública emitida por una oficina gubernamental</li>\n<li>Tarjeta de identificación emitida por una tribu india</li>\n</ul>Si no tiene ninguna de estas formas de identificación, puede llamar al 316-530-5321 para obtener ayuda para obtener una identificación de votante gratuita.</li>\n</ul>"
+    "en":"If you do not have a current and valid Florida driver's license number or Florida nondriver's identification card number, you must provide a copy of one of the following forms of photo identification to your local elections official in order to receive a ballot:\n<ul>\n<li>Driver's license issued by Florida or another state</li>\n<li>Nondriver's ID card issued by Florida or another state</li>\n<li>U.S. passport</li> \n<li>Concealed carry of handgun license issued by Florida  or another state</li>\n<li>Employee badge or ID document issued by a government office</li>\n<li>U.S. military ID</li>\n<li>Student ID card issued by an accredited Florida postsecondary educational institution</li>\n<li>Public assistance ID card issued by a government office</li>\n<li>ID card issued by an Indian tribe</li>\n</ul>If you do not have any of these forms of ID, you can call 316-530-5321 for assistance in getting a free voter ID.</li>\n</ul>",
+    "es":"Si no tiene un número de licencia de conducir de Florida vigente o válido o un número de identificación de Florida que no sea de conductor, debe proporcionar una copia de uno de los siguientes formularios de identificación con foto al oficial de elecciones locales para recibir una boleta:\n<ul>\n<li>Licencia de conducir emitida por Florida u otro estado</li>\n<li>Tarjeta de identificación de no conductor emitida por Florida u otro estado</li>\n<li>Pasaporte de EE. UU.</li>\n<li>Licencia de portar armas de fuego ocultas emitida por Florida u otro estado</li>\n<li>Tarjeta de identificación de empleado o documento de identidad emitido por una oficina gubernamental</li>\n<li>Identificación militar de EE. UU.</li>\n<li>Tarjeta de identificación de estudiante emitida por una institución educativa postsecundaria acreditada de Florida</li>\n<li>Tarjeta de identificación de asistencia pública emitida por una oficina gubernamental</li>\n<li>Tarjeta de identificación emitida por una tribu india</li>\n</ul>Si no tiene ninguna de estas formas de identificación, puede llamar al 316-530-5321 para obtener ayuda para obtener una identificación de votante gratuita.</li>\n</ul>"
   },
   "6_loading":{
     "wiki_step":"6",
@@ -570,8 +570,8 @@
   "7_affirm":{
     "wiki_step":"7",
     "ref":"7_affirm",
-    "en":"I agree under penalty of perjury that I am a United States citizen and Kansas resident, I will be 18 years old before the next election, and if convicted of a felony, my rights have been restored. I have told the truth on this application, and, if applicable, I have abandoned my former residence and/or other name.",
-    "es":"Acepto bajo pena de perjurio que soy ciudadano de los Estados Unidos y residente de Kansas, tendré 18 años antes de las próximas elecciones y, si soy condenado por un delito grave, mis derechos han sido restablecidos. He dicho la verdad en esta solicitud y, si es aplicable, he abandonado mi residencia anterior y / u otro nombre."
+    "en":"I agree under penalty of perjury that I am a United States citizen and Florida resident, I will be 18 years old before the next election, and if convicted of a felony, my rights have been restored. I have told the truth on this application, and, if applicable, I have abandoned my former residence and/or other name.",
+    "es":"Acepto bajo pena de perjurio que soy ciudadano de los Estados Unidos y residente de Florida, tendré 18 años antes de las próximas elecciones y, si soy condenado por un delito grave, mis derechos han sido restablecidos. He dicho la verdad en esta solicitud y, si es aplicable, he abandonado mi residencia anterior y / u otro nombre."
   },
   "AB7_affirm":{
     "wiki_step":"AB7",
@@ -584,40 +584,40 @@
     "es": "¡Éxito! Hemos enviado su solicitud."
   },
   "8VR_confirm_2":{
-    "en": "Thank you for registering to vote online through KSVotes.org. Your registration has been forwarded to your local elections official, and you should soon receive a copy of that email. If you do not receive the email, please check your spam folder.",
-    "es": "Gracias por registrarse para votar en línea a través de KSVotes.org. Su registro ha sido enviado a su funcionario local de elecciones y pronto recibirá una copia de ese correo electrónico. Si no recibe el correo electrónico, verifique su carpeta de spam."
+    "en": "Thank you for registering to vote online through FLVotes.org. Your registration has been forwarded to your local elections official, and you should soon receive a copy of that email. If you do not receive the email, please check your spam folder.",
+    "es": "Gracias por registrarse para votar en línea a través de FLVotes.org. Su registro ha sido enviado a su funcionario local de elecciones y pronto recibirá una copia de ese correo electrónico. Si no recibe el correo electrónico, verifique su carpeta de spam."
   },
   "8VR_confirm_3_deadline": {
     "en": "PLEASE NOTE: Registration for the November 2018 elections closed on October 16, 2018. This registration will not be in effect until after the November 6, 2018 elections.",
     "es": "TENGA EN CUENTA: La inscripción para las elecciones de noviembre de 2018 se cerró el 16 de octubre de 2018. Esta inscripción no estará vigente hasta después de las elecciones del 6 de noviembre de 2018."
   },
   "8VR_confirm_3": {
-    "en": "You should receive a card in the mail confirming your registration within 2-4 weeks. If you don’t, contact your local elections office to check on your status. You will find their contact information below, or check your status online at KSVotes.org.",
-    "es": "Debería recibir una tarjeta por correo confirmando su registro dentro de 2 a 4 semanas. Si no lo hace, comuníquese con la oficina local de elecciones para verificar su estado. Encontrarás su información de contacto a continuación, o consultar su estado en línea en KSVotes.org."
+    "en": "You should receive a card in the mail confirming your registration within 2-4 weeks. If you don’t, contact your local elections office to check on your status. You will find their contact information below, or check your status online at FLVotes.org.",
+    "es": "Debería recibir una tarjeta por correo confirmando su registro dentro de 2 a 4 semanas. Si no lo hace, comuníquese con la oficina local de elecciones para verificar su estado. Encontrarás su información de contacto a continuación, o consultar su estado en línea en FLVotes.org."
   },
   "8VR_confirm_4": {
-    "en": "If you have any questions, please call Kate Davis of KSVotes.org at 785-414-9678.",
-    "es": "Si tiene alguna pregunta, llame a Kate Davis de KSVotes.org al 785-414-9678."
+    "en": "If you have any questions, please call Kate Davis of FLVotes.org at 785-414-9678.",
+    "es": "Si tiene alguna pregunta, llame a Kate Davis de FLVotes.org al 785-414-9678."
   },
   "8VR_confirm_5": {
-    "en": "Thank you!<br/>The KSVotes.org Team",
-    "es": "¡Gracias!<br/>El equipo de KSVotes.org"
+    "en": "Thank you!<br/>The FLVotes.org Team",
+    "es": "¡Gracias!<br/>El equipo de FLVotes.org"
   },
   "AB8_confirm":{
     "en":"Thank you. Your advance ballot application(s) have been submitted. You should receive a copy of the email soon. If you don't receive the email, please check your spam folder.",
     "es":"Gracias. Su(s) solicitud(es) de boleta anticipada(s) han sido enviadas. Debería recibir una copia del correo electrónico pronto."
   },
   "9_confirm_email_deadline":{
-    "en":"Dear {firstname},\nThank you for registering to vote online through KSVotes.org. Your registration has been forwarded to your local elections official, and you should have received a copy of that email. If you haven't received the email, please check your spam folder.\n\nPLEASE NOTE: Registration for the November 2018 elections closed on October 16, 2018. This registration will not be in effect until after the November 6, 2018 elections.\n\nIf you have any questions, please call Kate Davis of KSVotes.org at 785-414-9678.\n\nThank you!\nThe KSVotes.org Team\n\nYour local elections official: {county} County, {officer}, {email}, {phone}\n",
-    "es":"Estimado {firstname},\nGracias por registrarse para votar en línea a través de KSVotes.org. Su registro ha sido enviado a su funcionario electoral local, y usted debería haber recibido una copia de ese correo electrónico. Si no ha recibido el correo electrónico, verifique su carpeta de spam.\n\nTENGA EN CUENTA: La inscripción para las elecciones de noviembre de 2018 se cerró el 16 de octubre de 2018. Esta inscripción no estará vigente hasta después de las elecciones del 6 de noviembre de 2018.\n\nSi tiene alguna pregunta, llame a Kate Davis de KSVotes.org al 785-414-9678.\n\n¡Gracias!\nEl equipo de KSVotes.org\n\nSu funcionario de elecciones locales: {county} County, {officer}, {email}, {phone}\n"
+    "en":"Dear {firstname},\nThank you for registering to vote online through FLVotes.org. Your registration has been forwarded to your local elections official, and you should have received a copy of that email. If you haven't received the email, please check your spam folder.\n\nPLEASE NOTE: Registration for the November 2018 elections closed on October 16, 2018. This registration will not be in effect until after the November 6, 2018 elections.\n\nIf you have any questions, please call Kate Davis of FLVotes.org at 785-414-9678.\n\nThank you!\nThe FLVotes.org Team\n\nYour local elections official: {county} County, {officer}, {email}, {phone}\n",
+    "es":"Estimado {firstname},\nGracias por registrarse para votar en línea a través de FLVotes.org. Su registro ha sido enviado a su funcionario electoral local, y usted debería haber recibido una copia de ese correo electrónico. Si no ha recibido el correo electrónico, verifique su carpeta de spam.\n\nTENGA EN CUENTA: La inscripción para las elecciones de noviembre de 2018 se cerró el 16 de octubre de 2018. Esta inscripción no estará vigente hasta después de las elecciones del 6 de noviembre de 2018.\n\nSi tiene alguna pregunta, llame a Kate Davis de FLVotes.org al 785-414-9678.\n\n¡Gracias!\nEl equipo de FLVotes.org\n\nSu funcionario de elecciones locales: {county} County, {officer}, {email}, {phone}\n"
   },
   "9_confirm_email":{
-    "en":"Dear {firstname},\nThank you for registering to vote online through KSVotes.org. Your registration has been forwarded to your local elections official, and you should have received a copy of that email. If you haven't received the email, please check your spam folder.\n\nYou should receive a card in the mail confirming your registration within 2-4 weeks. If you don't, contact your local elections office to check on your status. You can find their contact information below, or check your status at https://ksvotes.org/\n\nIf you have any questions, please call Kate Davis of KSVotes.org at 785-414-9678.\n\nThank you!\nThe KSVotes.org Team\n\nYour local elections official: {county} County, {officer}, {email}, {phone}\n",
-    "es":"Estimado {firstname},\nGracias por registrarse para votar en línea a través de KSVotes.org. Su registro ha sido enviado a su funcionario electoral local, y usted debería haber recibido una copia de ese correo electrónico. Si no ha recibido el correo electrónico, verifique su carpeta de spam.\n\nDebería recibir una tarjeta por correo confirmando su registro dentro de 2 a 4 semanas. Si no lo hace, comuníquese con la oficina local de elecciones para verificar su estado. Encontrarás su información de contacto a continuación, o verifique su estado en línea https://ksvotes.org/\n\nSi tiene alguna pregunta, llame a Kate Davis de KSVotes.org al 785-414-9678.\n\n¡Gracias!\nEl equipo de KSVotes.org\n\nSu funcionario de elecciones locales: {county} County, {officer}, {email}, {phone}\n"
+    "en":"Dear {firstname},\nThank you for registering to vote online through FLVotes.org. Your registration has been forwarded to your local elections official, and you should have received a copy of that email. If you haven't received the email, please check your spam folder.\n\nYou should receive a card in the mail confirming your registration within 2-4 weeks. If you don't, contact your local elections office to check on your status. You can find their contact information below, or check your status at https://FLVotes.org/\n\nIf you have any questions, please call Kate Davis of FLVotes.org at 785-414-9678.\n\nThank you!\nThe FLVotes.org Team\n\nYour local elections official: {county} County, {officer}, {email}, {phone}\n",
+    "es":"Estimado {firstname},\nGracias por registrarse para votar en línea a través de FLVotes.org. Su registro ha sido enviado a su funcionario electoral local, y usted debería haber recibido una copia de ese correo electrónico. Si no ha recibido el correo electrónico, verifique su carpeta de spam.\n\nDebería recibir una tarjeta por correo confirmando su registro dentro de 2 a 4 semanas. Si no lo hace, comuníquese con la oficina local de elecciones para verificar su estado. Encontrarás su información de contacto a continuación, o verifique su estado en línea https://FLVotes.org/\n\nSi tiene alguna pregunta, llame a Kate Davis de FLVotes.org al 785-414-9678.\n\n¡Gracias!\nEl equipo de FLVotes.org\n\nSu funcionario de elecciones locales: {county} County, {officer}, {email}, {phone}\n"
   },
   "9AB_confirm_email":{
-    "en":"Dear {firstname},\nThank you for submitting your advance ballot application(s) online through KSVotes.org. Your application has been forwarded to your local elections official, and you should have received a copy of that email. If you haven't received the email, please check your spam folder.\n\nYour county elections office will begin mailing advance ballots 3 weeks before the election. You can find their contact information below.\n\nIf you have any questions, please call Kate Davis of KSVotes.org at 785-414-9678.\n\nThank you!\nThe KSVotes.org Team\n\nYour local elections official: {county} County, {officer}, {email}, {phone}\n",
-    "es":"Estimado {firstname},\nGracias por enviar sus solicitudes de boleta en línea a través de KSVotes.org. Su solicitud ha sido enviada a sus elecciones locales, y debería haber recibido una copia de ese correo electrónico. Si no ha recibido el correo electrónico, revise su carpeta de correo no deseado.\n\nLa oficina de elecciones de su condado comenzará a enviar por correo bots de avanzada 3 semanas antes de la elección. Puede encontrar su información de contacto a continuación.\n\nSi tiene alguna pregunta, llame a Kate Davis de KSVotes.org al 785-414-9678.\n\n¡Gracias!\nEl equipo de KSVotes.org\n\nSu funcionario de elecciones locales: {county} County, {officer}, {email}, {phone}\n"
+    "en":"Dear {firstname},\nThank you for submitting your advance ballot application(s) online through FLVotes.org. Your application has been forwarded to your local elections official, and you should have received a copy of that email. If you haven't received the email, please check your spam folder.\n\nYour county elections office will begin mailing advance ballots 3 weeks before the election. You can find their contact information below.\n\nIf you have any questions, please call Kate Davis of FLVotes.org at 785-414-9678.\n\nThank you!\nThe FLVotes.org Team\n\nYour local elections official: {county} County, {officer}, {email}, {phone}\n",
+    "es":"Estimado {firstname},\nGracias por enviar sus solicitudes de boleta en línea a través de FLVotes.org. Su solicitud ha sido enviada a sus elecciones locales, y debería haber recibido una copia de ese correo electrónico. Si no ha recibido el correo electrónico, revise su carpeta de correo no deseado.\n\nLa oficina de elecciones de su condado comenzará a enviar por correo bots de avanzada 3 semanas antes de la elección. Puede encontrar su información de contacto a continuación.\n\nSi tiene alguna pregunta, llame a Kate Davis de FLVotes.org al 785-414-9678.\n\n¡Gracias!\nEl equipo de FLVotes.org\n\nSu funcionario de elecciones locales: {county} County, {officer}, {email}, {phone}\n"
   },
   "1_legend":{
     "en":"Citizenship and Age",
@@ -710,8 +710,8 @@
     "es":"Seleccione el condado en el que reside actualmente."
   },
   "county_clerk_email": {
-    "en":"Dear County Elections Official,\nPlease see attached for a voter form, completed using KSVotes.org. If you have any questions about this particular submission, please call the voter using the information on the form; for general questions about KSVotes.org and this registration process, please call Kate Davis of Blueprint Kansas at 785-414-9678.",
-    "es":"Dear County Elections Official,\nPlease see attached for a voter form, completed using KSVotes.org. If you have any questions about this particular submission, please call the voter using the information on the form; for general questions about KSVotes.org and this registration process, please call Kate Davis of Blueprint Kansas at 785-414-9678."
+    "en":"Dear County Elections Official,\nPlease see attached for a voter form, completed using FLVotes.org. If you have any questions about this particular submission, please call the voter using the information on the form; for general questions about FLVotes.org and this registration process, please call Kate Davis of Blueprint Florida at 785-414-9678.",
+    "es":"Dear County Elections Official,\nPlease see attached for a voter form, completed using FLVotes.org. If you have any questions about this particular submission, please call the voter using the information on the form; for general questions about FLVotes.org and this registration process, please call Kate Davis of Blueprint Florida at 785-414-9678."
   },
   "voter_receipt_email_subject": {
     "en": "Thank you for being a voter!",
@@ -731,8 +731,8 @@
     "es": "Su cambio de condado se ha aplicado a la(s) forma(s)."
   },
   "stage_banner": {
-    "en": "This site is for testing only. You might want <a href='https://www.ksvotes.org/'>the live site</a> instead.",
-    "es": "Este sitio es solo para pruebas. En su lugar, puede querer <a href='https://www.ksvotes.org/'>el sitio en vivo</a>."
+    "en": "This site is for testing only. You might want <a href='https://www.flvotes.org/'>the live site</a> instead.",
+    "es": "Este sitio es solo para pruebas. En su lugar, puede querer <a href='https://www.flvotes.org/'>el sitio en vivo</a>."
   }
 
 }

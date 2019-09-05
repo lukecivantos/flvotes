@@ -9,7 +9,7 @@ class FormAB3(FlaskForm):
     addr = StringField(lazy_gettext(u'3AB_addr'), validators=[DataRequired(message=lazy_gettext(u'Required'))])
     unit = StringField(lazy_gettext(u'3_unit'))
     city = StringField(lazy_gettext(u'3_city'), validators=[DataRequired(message=lazy_gettext(u'Required'))])
-    state = StringField(lazy_gettext(u'3_state'), validators=[DataRequired(message=lazy_gettext(u'Required'))], default='KANSAS')
+    state = StringField(lazy_gettext(u'3_state'), validators=[DataRequired(message=lazy_gettext(u'Required'))], default='FLORIDA')
     zip = StringField(lazy_gettext(u'3_zip'), validators=[DataRequired(message=lazy_gettext(u'Required')), Regexp('^\d{5}$', message=lazy_gettext(u'3_zip_help'))])
 
     has_mail_addr = BooleanField(lazy_gettext(u'3_has_mail_addr'))

@@ -69,7 +69,7 @@ class Clerk(db.Model):
     
         # add the TEST fixture
         test_clerk = Clerk.find_or_create_by(county='TEST')
-        test_clerk.email = 'registration@ksvotes.org'
+        test_clerk.email = 'registration@flvotes.org'
         test_clerk.phone = 'test'
         test_clerk.fax = 'test'
         test_clerk.officer = 'test'

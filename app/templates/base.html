@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>{% block title %} {% endblock %} | KSVotes.org</title>
+    <title>{% block title %} {% endblock %} | FLVotes.org</title>
 
     {% if config['GA_KEY'] %}
     <!-- Google Tag Manager -->
@@ -18,9 +18,9 @@
 
     {% block facebook %}
       <meta property="og:url" content="{{url_for('main.index', _external=True)}}"/>
-      <meta property="og:site_name" content="KSVotes.org" />
-      <meta property="og:title" content="KSVotes.org" />
-      <meta property="og:description" content="KSVotes.org is the fastest, simplest way to register to vote in Florida using just your touchscreen device." />
+      <meta property="og:site_name" content="FLVotes.org" />
+      <meta property="og:title" content="FLVotes.org" />
+      <meta property="og:description" content="FLVotes.org is the fastest, simplest way to register to vote in Florida using just your touchscreen device." />
       <meta property="og:type" content="website" />
       <meta property="og:image" content="{{url_for('static', filename='img/KSVotes-square-social.png', _external=True)}}" />
       <meta property="og:image:width" content="738" />
@@ -31,9 +31,9 @@
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="KSVotesorg" />
       <meta name="twitter:creator" content="">
-      <meta name="twitter:title" content="KSVotes.org" />
+      <meta name="twitter:title" content="FLVotes.org" />
       <meta name="twitter:image" content="{{url_for('static', filename='img/KSVotes-square-social.png', _external=True)}}" />
-      <meta name="twitter:description" content="KSVotes.org is the fastest, simplest way to register to vote in Florida using just your touchscreen device." />
+      <meta name="twitter:description" content="FLVotes.org is the fastest, simplest way to register to vote in Florida using just your touchscreen device." />
     {% endblock %}
 
     {% include 'helpers/favicons.html' %}
@@ -158,11 +158,11 @@
       <ul class="list-unstyled list-inline px-2 mb-3">
        <li class="list-inline-item"><a href="/terms">{{_('0_footer_tos')}}</a> {{nav_item_sep}}</li>
        <li class="list-inline-item"><a href="/privacy-policy">{{_('0_footer_priv')}}</a> {{nav_item_sep}}</li>
-       <li class="list-inline-item"><a href="https://www.facebook.com/KSVotes.org/">{{_('0_footer_contact')}}</a></li>
+       <li class="list-inline-item"><a href="https://www.facebook.com/FLVotes.org/">{{_('0_footer_contact')}}</a></li>
       </ul>
       <div class="px-2 mb-3"><a href="/about">{{_('0_footer_about_us')}}</a></div>
       <div class="footer-copyright py-2 fs-12">
-        <a href="https://blueprintkansas.org/">© 2018 Blueprint Kansas</a>
+        <a href="https://blueprintFlorida.org/">© 2018 Blueprint Florida</a>
       </div>
     </footer>
     {% endblock %}

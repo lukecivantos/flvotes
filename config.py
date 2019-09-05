@@ -13,8 +13,8 @@ class Config:
     RECAPTCHA_PUBLIC_KEY = os.environ.get('RECAPTCHA_KEY')
     RECAPTCHA_PRIVATE_KEY = os.environ.get('RECAPTCHA_SECRET')
     BABEL_DEFAULT_LOCALE = 'en'
-    EMAIL_FROM = os.getenv('EMAIL_FROM', 'noreply@ksvotes.org')
-    EMAIL_BCC = os.getenv('EMAIL_BCC', 'registration@ksvotes.org')
+    EMAIL_FROM = os.getenv('EMAIL_FROM', 'noreply@flvotes.org')
+    EMAIL_BCC = os.getenv('EMAIL_BCC', 'registration@flvotes.org')
     AWS_DEFAULT_REGION = os.getenv('AWS_DEFAULT_REGION')
     SES_ACCESS_KEY_ID = os.getenv('SES_ACCESS_KEY_ID')
     SES_SECRET_ACCESS_KEY = os.getenv('SES_SECRET_ACCESS_KEY')
@@ -23,7 +23,7 @@ class Config:
     SESSION_TTL = os.getenv('SESSION_TTL', '10')
     DEMO_UUID = os.getenv('DEMO_UUID', None)
     ENABLE_AB = os.getenv('ENABLE_AB', False)
-    FAIL_EMAIL = os.getenv('FAIL_EMAIL', 'fail@ksvotes.org')
+    FAIL_EMAIL = os.getenv('FAIL_EMAIL', 'fail@flvotes.org')
     STAGE_BANNER = os.getenv('STAGE_BANNER', False)
 
     @staticmethod

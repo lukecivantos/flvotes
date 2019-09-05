@@ -14,7 +14,7 @@ def test_step_ab3_is_complete_true_with_one_address(app, db_session, client):
         'addr': "707 Vermont St",
         'unit': "Room A",
         'city': "Lawrence",
-        'state': "KANSAS",
+        'state': "FLORIDA",
         'zip': '66044'
     }
     step = Step_AB_3(form_payload)
@@ -45,13 +45,13 @@ def test_step_ab3_with_mail_addr(app, db_session, client):
         'addr': "707 Vermont St",
         'unit': "Room A",
         'city': "Lawrence",
-        'state': "KANSAS",
+        'state': "FLORIDA",
         'zip': '66044',
         'has_mail_addr': True,
         'mail_addr': "707 Vermont St",
         'mail_unit': "Room C",
         'mail_city': "Lawrence",
-        'mail_state': "KANSAS",
+        'mail_state': "FLORIDA",
         'mail_zip': '66044',
     }
     step = Step_AB_3(form_payload3)

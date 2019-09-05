@@ -20,7 +20,7 @@ def test_step_vr3_is_complete_true_with_one_address(app, db_session, client):
         'addr': "707 Vermont St",
         'unit': "Room A",
         'city': "Lawrence",
-        'state': "KANSAS",
+        'state': "FLORIDA",
         'zip': '66044'
     }
     step = Step_VR_3(form_payload)
@@ -53,13 +53,13 @@ def test_step_vr3_with_prev_address(app, db_session, client):
         'addr': "707 Vermont St",
         'unit': "Room A",
         'city': "Lawrence",
-        'state': "KANSAS",
+        'state': "FLORIDA",
         'zip': '66044',
         'has_prev_addr': True,
         'prev_addr': "707 Vermont St",
         'prev_unit': "Room B",
         'prev_city': "Lawrence",
-        'prev_state': "KANSAS",
+        'prev_state': "FLORIDA",
         'prev_zip': '66044',
     }
     step = Step_VR_3(form_payload)
@@ -78,7 +78,7 @@ def test_step_vr3_with_bad_prev_address(app, db_session, client):
         'addr': "707 Vermont St",
         'unit': "Room A",
         'city': "Lawrence",
-        'state': "KANSAS",
+        'state': "FLORIDA",
         'zip': '66044',
         'has_prev_addr': True,
         'prev_addr': "foo",
@@ -102,19 +102,19 @@ def test_step_vr3_with_prev_address_and_mail_addr(app, db_session, client):
          'addr': "707 Vermont St",
          'unit': "Room A",
          'city': "Lawrence",
-         'state': "KANSAS",
+         'state': "FLORIDA",
          'zip': '66044',
          'has_prev_addr': True,
          'prev_addr': "707 Vermont St",
          'prev_unit': "Room B",
          'prev_city': "Lawrence",
-         'prev_state': "KANSAS",
+         'prev_state': "FLORIDA",
          'prev_zip': '66044',
          'has_mail_addr': True,
          'mail_addr': "707 Vermont St",
          'mail_unit': "Room C",
          'mail_city': "Lawrence",
-         'mail_state': "KANSAS",
+         'mail_state': "FLORIDA",
          'mail_zip': '66044',
      }
      step = Step_VR_3(form_payload3)

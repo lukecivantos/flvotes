@@ -10,7 +10,7 @@ def create_registrant(db_session):
             "addr": "707 Vermont St",
             "unit": "Room A",
             "city": "Lawrence",
-            "state": "KANSAS",
+            "state": "FLORIDA",
             "zip": "66044"
         },
         county="TEST",

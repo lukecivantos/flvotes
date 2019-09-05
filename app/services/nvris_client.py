@@ -116,7 +116,7 @@ class NVRISClient():
         r = self.registrant
         sig = r.try_value('signature_string', None)
         return {
-            'state': 'Kansas', # TODO r.try_value('state'),
+            'state': 'Florida', # TODO r.try_value('state'),
             'county_2': r.county, # TODO corresponds with 'state'
             'county_1': r.county, # TODO different?
             'id_number': r.try_value('ab_identification'),
@@ -144,7 +144,7 @@ class NVRISClient():
         r = self.registrant
         sig = r.try_value('signature_string', None)
         return {
-            'state': 'Kansas', # TODO r.try_value('state'),
+            'state': 'Florida', # TODO r.try_value('state'),
             'county_2': r.county, # TODO corresponds with 'state'
             'county_1': r.county, # TODO different?
             'id_number': r.try_value('ab_identification'),

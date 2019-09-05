@@ -12,7 +12,7 @@ class FormVR3(FlaskForm):
     state = StringField(
         lazy_gettext(u'3_state'),
         validators=[DataRequired(message=lazy_gettext(u'Required'))],
-        default='KANSAS'
+        default='FLORIDA'
     )
     zip = StringField(lazy_gettext(u'3_zip'), validators=[DataRequired(message=lazy_gettext(u'Required')), Regexp('^\d{5}$', message=lazy_gettext(u'3_zip_help'))])
 

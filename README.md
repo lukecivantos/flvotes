@@ -1,8 +1,8 @@
-# KSVotes.org
+# FLVotes.org
 
 [![Build Status](https://travis-ci.com/BlueprintKansas/ksvotes.org.svg?branch=master)](https://travis-ci.com/BlueprintKansas/ksvotes.org)
 
-The ksvotes.org site makes Kansas online voting registration easy.
+The FLVotes.org site makes Florida online voting registration easy.
 
 ## Table of Contents
 * [Database Setup](#database-setup)

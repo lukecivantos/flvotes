@@ -15,7 +15,7 @@ def test_insert_get_clerk(app, db_session, client):
         address1 = "123 fake st",
         address2 = "ste 107",
         city = "springfield",
-        state = "KANSAS",
+        state = "FLORIDA",
         zip = "55555",
     )
     db_session.add(new_clerk)

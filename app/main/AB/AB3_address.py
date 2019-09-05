@@ -14,7 +14,7 @@ def ab3_address():
         addr = g.registrant.try_value('addr'),
         unit = g.registrant.try_value('unit'),
         city = g.registrant.try_value('city'),
-        state = g.registrant.try_value('state', 'KANSAS'),
+        state = g.registrant.try_value('state', 'FLORIDA'),
         zip = g.registrant.try_value('zip'),
         has_mail_addr = g.registrant.try_value('has_mail_addr'),
         mail_addr = g.registrant.try_value('mail_addr'),

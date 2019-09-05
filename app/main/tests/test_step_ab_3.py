@@ -36,7 +36,7 @@ def test_ab_3_single_valid_address(app, db_session, client):
         'addr': "707 Vermont St",
         'unit': "Room A",
         'city': "Lawrence",
-        'state': "KANSAS",
+        'state': "FLORIDA",
         'zip': '66044'
     }
 
@@ -62,7 +62,7 @@ def test_ab_3_single_address_no_county(app, db_session, client):
         'addr': "707 Vermont St",
         'unit': "Room A",
         'city': "Lawrence",
-        'state': "KANSAS",
+        'state': "FLORIDA",
         'zip': '66044'
     }
 
@@ -100,13 +100,13 @@ def test_ab_3_with_mail_address(app, db_session, client):
          'addr': "707 Vermont St",
          'unit': "Room A",
          'city': "Lawrence",
-         'state': "KANSAS",
+         'state': "FLORIDA",
          'zip': '66044',
          'has_mail_addr': True,
          'mail_addr': "707 Vermont St",
          'mail_unit': "Room B",
          'mail_city': "Lawrence",
-         'mail_state': "KANSAS",
+         'mail_state': "FLORIDA",
          'mail_zip': '66044',
      }
 
